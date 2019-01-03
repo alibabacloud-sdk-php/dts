@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\Dts
  *
- * @method V20160801\DtsApiResolver v20160801()
+ * @method static V20160801\DtsApiResolver v20160801()
  */
-class Dts
+class DtsVersion
 {
     use VersionResolverTrait;
 }
