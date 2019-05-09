@@ -5,8 +5,8 @@ namespace AlibabaCloud\Dts;
 use AlibabaCloud\Client\Resolver\VersionResolver;
 
 /**
- * @deprecated
+ * @method static V20160801\DtsApiResolver v20160801()
  */
-class DtsVersion extends VersionResolver
+class Dts extends VersionResolver
 {
 }
